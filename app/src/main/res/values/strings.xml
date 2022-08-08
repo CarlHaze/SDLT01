@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">0950141 SDLT01</string>
+
+    <!--Bulbasaur-->
+    <string name="BulbasaurNumber">001</string>
+    <string name="BulbasaurName">Bulbasaur</string>
+    <string name="BulbasaurDescription">Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back.\nBy soaking up the sun\'s rays, the seed grows progressively larger.</string>
+    <string name="BulbasaurHeight">Height:  0.7 m</string>
+    <string name="BulbasaurCategory">Category:  Seed</string>
+    <string name="BulbasaurWeight">Weight:  6.9 kg</string>
+    <string name="BulbasaurAbilities">Ability:    Overgrow</string>
+
+    <!--Ivysaur-->
+    <string name="IvysaurNumber">002</string>
+    <string name="IvysaurName">Ivysaur</string>
+    <string name="IvysaurDescription">There is a bud on this Pokémon\'s back.\nTo support its weight, Ivysaur\'s legs and trunk grow thick and strong.\nIf it starts spending more time lying in the sunlight,
+        it\'s a sign that the bud will bloom into a large flower soon.</string>
+    <string name="IvysaurHeight">Height:    1.0 m</string>
+    <string name="IvysaurCategory">Category:    Seed</string>
+    <string name="IvysaurWeight">Weight:   13.0 kg</string>
+    <string name="IvysaurAbilities">Ability:    Overgrow</string>
+
+    <!-- Venusaur -->
+    <string name="VenusaurNumber">003</string>
+    <string name="VenusaurName">Venusaur</string>
+    <string name="VenusaurDescription">There is a large flower on Venusaur\'s back.\nThe flower is said to take on vivid colors if it gets plenty of nutrition and sunlight.\n
+        The flower\'s aroma soothes the emotions of people.</string>
+    <string name="VenusaurHeight">Height: 2.0 m</string>
+    <string name="VenusaurCategory">Category: Seed</string>
+    <string name="VenusaurWeight">Weight: 100 kg</string>
+    <string name="VenusaurAbilities">Ability: Overgrow</string>
+
+    <!-- Charmander -->
+    <string name="CharmanderNumber">004</string>
+    <string name="CharmanderName">Charmander</string>
+    <string name="CharmanderDescription">The flame that burns at the tip of its tail is an indication of its emotions.\nThe flame wavers when Charmander is enjoying itself.\n If the Pokémon becomes enraged, the flame burns fiercely.</string>
+    <string name="CharmanderHeight">Height: 0.6 m</string>
+    <string name="CharmanderCategory">Category: Lizard</string>
+    <string name="CharmanderWeight">Weight: 8.5 kg</string>
+    <string name="CharmanderAbilities">Ability: Blaze</string>
+
+    <!-- Charmeleon -->
+    <string name="CharmeleonNumber">005</string>
+    <string name="CharmeleonName">Charmeleon</string>
+    <string name="CharmeleonDescription">"Charmeleon mercilessly destroys its foes using its sharp claws.\nIf it encounters a strong foe, it turns aggressive.\nIn this excited state, the flame at the tip of its tail flares with a bluish white color."</string>
+    <string name="CharmeleonHeight">Height: 1.1 m</string>
+    <string name="CharmeleonCategory">Category: Flame</string>
+    <string name="CharmeleonWeight">Weight: 19 kg</string>
+    <string name="CharmeleonAbilities">Ability: Blaze</string>
+
+    <!-- Charizard -->
+    <string name="CharizardNumber">006</string>
+    <string name="CharizardName">Charizard</string>
+    <string name="CharizardDescription">"Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself."</string>
+    <string name="CharizardHeight">"5'07"</string>
+    <string name="CharizardCategory">Flame</string>
+    <string name="CharizardWeight">199.50</string>
+    <string name="CharizardAbilities">Blaze</string>
+
+    <!-- Squirtle -->
+    <string name="SquirtleNumber">007</string>
+    <string name="SquirtleName">Squirtle</string>
+    <string name="SquirtleDescription">"Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."</string>
+    <string name="SquirtleHeight">"1'08"</string>
+    <string name="SquirtleCategory">Tiny Turtle</string>
+    <string name="SquirtleWeight">19.80</string>
+    <string name="SquirtleAbilities">Torrent</string>
+
+    <!-- Wartortle -->
+    <string name="WartortleNumber">008</string>
+    <string name="WartortleName">Wartortle</string>
+    <string name="WartortleDescription">"Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this."</string>
+    <string name="WartortleHeight">"3'08"</string>
+    <string name="WartortleCategory">Turtle</string>
+    <string name="WartortleWeight">49.60</string>
+    <string name="WartortleAbilities">Torrent</string>
+
+    <!-- Blastoise -->
+    <string name="BlastoiseNumber">009</string>
+    <string name="BlastoiseName">Blastoise</string>
+    <string name="BlastoiseDescription">"Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet."</string>
+    <string name="BlastoiseHeight">"5'03"</string>
+    <string name="BlastoiseCategory">Shellfish</string>
+    <string name="BlastoiseWeight">188.50</string>
+    <string name="BlastoiseAbilities">Torrent</string>
+
+    <!-- Caterpie -->
+    <string name="CaterpieNumber">010</string>
+    <string name="CaterpieName">Caterpie</string>
+    <string name="CaterpieDescription">"Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day."</string>
+    <string name="CaterpieHeight">"1'00"</string>
+    <string name="CaterpieCategory">Bug</string>
+    <string name="CaterpieWeight">6.40</string>
+    <string name="CaterpieAbilities">Shield Dust</string>
+
+
+</resources>
